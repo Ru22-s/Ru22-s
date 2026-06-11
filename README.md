@@ -1,14 +1,10 @@
-<h1 align="center">Rudra Harsh Vardhan Singh</h1>
+# Rudra Harsh Vardhan Singh
 
-<p align="center">
-Cybersecurity • OSINT • Strategic Technology • Networking & Systems • Geopolitical Analysis
-</p>
+Cybersecurity | OSINT | Strategic Technology | Geopolitical Analysis
 
-<p align="center">
 <a href="https://linkedin.com/in/rudra-harsh-vardhan-singh">LinkedIn</a> •
 <a href="https://ru22-s.in">Website</a> •
 <a href="https://tryhackme.com/p/Rud5674">TryHackMe</a>
-</p>
 
 ---
 
