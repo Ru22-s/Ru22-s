@@ -42,32 +42,6 @@ My work focuses on cybersecurity, OSINT, networking, systems, strategic technolo
 * Studying infrastructure security and emerging security challenges
 * Creating long-term technical and analytical documentation systems
 
----
-
-## Featured Repositories
-
-### pentest-notes
-
-Structured notes covering networking, Active Directory, Linux, Windows, web security, reconnaissance, privilege escalation, and security tools.
-
-### OSINT-Notes
-
-Research methodologies, workflows, intelligence collection techniques, and OSINT documentation.
-
-### Geopolitical-Notes
-
-Structured notes covering international relations, strategic affairs, military technology, security studies, and geopolitical developments.
-
-### Strategic-Research
-
-Analytical research focused on cyber strategy, critical infrastructure, emerging technologies, and national security issues.
-
-### OSINT-Case-Studies
-
-Investigation-focused case studies documenting methodology, findings, limitations, and lessons learned.
-
----
-
 ## Technical Stack
 
 ### Programming & Scripting
